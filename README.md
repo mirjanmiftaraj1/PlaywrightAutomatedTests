@@ -1,5 +1,8 @@
-# Test Random
+# This is a NextJS starter in Playwright Automated Tests.
 
-This is a NextJS starter in Test Random.
+How to start the app:
+1. npm install
+2. npm run build
+3. npm start
 
-To get started, take a look at src/app/page.tsx.
+For more, take a look at src/app/page.tsx.
