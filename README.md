@@ -1,4 +1,4 @@
-# This is a NextJS starter in Playwright Automated Tests.
+# This is a Playwright Automated Tests App.
 
 How to start the app:
 1. npm install
